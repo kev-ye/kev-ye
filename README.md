@@ -7,7 +7,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with me
-<a href="mailto:kangkai.ye@hotmail.com.com"><img alt="" src="https://img.shields.io/badge/kangkai.ye@hotmail.com?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="mailto:kangkai.ye@hotmail.com.com"><img alt="" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
 <details>
 	<summary>Click for GitHub Stats</summary>
