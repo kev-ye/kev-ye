@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-    [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kaye)](https://github.com/JaeSeoKim/badge42)
-</p>
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kaye)](https://github.com/JaeSeoKim/badge42)
     
 <details>
 <summary>Click for GitHub Stats</summary>
