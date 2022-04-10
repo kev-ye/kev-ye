@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kaye)](https://github.com/JaeSeoKim/badge42)
+[![kaye's 42 stats](https://badge42.vercel.app/api/v2/cl1t6f1fn000609meta42ah3l/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
