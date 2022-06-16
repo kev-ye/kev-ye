@@ -16,8 +16,8 @@
 
 ### 🤝🏻 &nbsp;Connect with me
 <a href="mailto:kangkai.ye@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/kangkai.ye@hotmail.com-00599C?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kangkai-ye/" rel="noreferrer"><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>{:target="_blank" rel="noopener"}
-<a href="https://kev-ye.github.io" rel="noreferrer"><img alt="About me" src="https://img.shields.io/badge/ABOUT_ME-F45E3F?style=for-the-badge&logo=Codemagic&logoColor=white" /></a>{:target="_blank" rel="noopener"}
+<a href="https://www.linkedin.com/in/kangkai-ye/"><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kev-ye.github.io"><img alt="About me" src="https://img.shields.io/badge/ABOUT_ME-F45E3F?style=for-the-badge&logo=Codemagic&logoColor=white" /></a>
 
 <details>
 	<summary>Click for GitHub Stats</summary>
