@@ -3,7 +3,7 @@
 [![kaye's 42 stats](https://badge42.vercel.app/api/v2/cl1t6f1fn000609meta42ah3l/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
 
 ### 🛠 &nbsp;Tech Stack
-![C](https://img.shields.io/badge/C-00599C?url="www.google.com"&style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F5DB18?style=for-the-badge&logo=javascript&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
