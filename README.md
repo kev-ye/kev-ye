@@ -11,7 +11,7 @@
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-A6120D?style=for-the-badge&logo=angular&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![NESTJS](https://img.shields.io/badge/NESTJS-CC013A?style=for-the-badge&logo=nestjs&logoColor=white)
-![FLASK](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white). 
+![FLASK](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![DOCKER](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with me
