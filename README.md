@@ -8,11 +8,16 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F5DB18?style=for-the-badge&logo=javascript&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-A6120D?style=for-the-badge&logo=angular&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![NESTJS](https://img.shields.io/badge/NESTJS-CC013A?style=for-the-badge&logo=nestjs&logoColor=white)
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FLASK](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with me
-<a href="mailto:kangkai.ye@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/kangkai.ye@hotmail.com-00599C?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="mailto:kangkai.ye@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/kangkai.ye@hotmail.com-00599C?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://kev-ye.github.io" target="_blank" rel="noreferrer"><img alt="About me" src="https://img.shields.io/badge/ABOUT_ME-F45E3F?style=for-the-badge&logo=Codemagic&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kangkai-ye/" target="_blank" rel="noreferrer"><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
 	<summary>Click for GitHub Stats</summary>
