@@ -1,12 +1,28 @@
+const thisYear = new Date().getFullYear()
+const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
+const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
+const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
+const progressBarOfThisYear = generateProgressBar()
+
+function generateProgressBar() {
+    const progressBarCapacity = 30
+    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+    const progressBar =
+      '█'.repeat(passedProgressBarIndex) +
+      '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
+    return `{ ${progressBar} }`
+}
+
+const readme = `\
 <h1 align="center">Hi 👋, I'm Kangkai</h1>
 
 <!-- Year progress bar -->
-<p align="center"> ⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.57 %</p>
+<p align="center">⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %</p>
 
 ---
 
 <!-- Auto update time -->
-<p align="center">⏰ Updated on Tue, 02 Aug 2022 18:21:56 GMT</p>
+<p align="center">⏰ Updated on ${new Date().toUTCString()}</p>
 
 ---
 
@@ -65,3 +81,7 @@
 		<img alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-ye&title_color=00599C&layout=compact&hide_border=true" style="width: 70%" />
 	</details>
 </div>
+\
+`
+
+console.log(readme)
