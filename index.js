@@ -86,11 +86,9 @@ const readme = `\
 <!-- Github stats -->
 <details align="center">
 	<summary>Click for GitHub Stats</summary>
-	<img src="https://github-readme-stats.vercel.app/api?username=kev-ye&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=00599C&text_color=555" alt = "GitHub Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-ye&title_color=00599C&layout=compact&hide_border=true" alt="Most Used Lang" />
+	<img src="https://github-readme-stats.vercel.app/api?username=kev-ye&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=00599C&text_color=555" alt = "GitHub Stats" width="75%" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-ye&title_color=00599C&layout=compact&hide_border=true" alt="Most Used Lang" width="75%" />
 </details>
-
-
 \
 `
 
