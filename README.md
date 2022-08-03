@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kangkai</h1>
 
 <!-- Year progress bar -->
-<p align="center">⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.70 %</p>
+<p align="center">⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.77 %</p>
 
 ---
 
 <!-- Auto update time -->
-<p align="center">⏰ Updated on Wed, 03 Aug 2022 06:09:51 GMT</p>
+<p align="center">⏰ Updated on Wed, 03 Aug 2022 12:14:20 GMT</p>
 
 ---
 
@@ -73,3 +73,4 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=kev-ye&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=00599C&text_color=555" alt = "GitHub Stats" width="75%" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-ye&title_color=00599C&layout=compact&hide_border=true" alt="Most Used Lang" width="75%" />
 </details>
+
