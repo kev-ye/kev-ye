@@ -30,16 +30,16 @@
 	<!-- Language -->
 	<img src="https://img.shields.io/badge/C-00599C?&style=for-the-badge&logo=c&logoColor=white" alt="c" />
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+	<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 	<img src="https://img.shields.io/badge/JAVASCRIPT-F5DB18?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" />
 	<img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-	<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 	<br />
 	<!-- Framework -->
+	<img src="https://img.shields.io/badge/DJANGO-285845?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+	<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
 	<img src="https://img.shields.io/badge/ANGULAR-A6120D?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
 	<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react" />
 	<img src="https://img.shields.io/badge/NESTJS-CC013A?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" />
-	<img src="https://img.shields.io/badge/DJANGO-285845?style=for-the-badge&logo=django&logoColor=white" alt="django" />
-	<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
 	<br />
 	<!-- Infrastructure -->
 	<img src="https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
