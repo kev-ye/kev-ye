@@ -38,6 +38,7 @@
 	<img src="https://img.shields.io/badge/ANGULAR-A6120D?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
 	<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react" />
 	<img src="https://img.shields.io/badge/NESTJS-CC013A?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" />
+	<img src="https://img.shields.io/badge/DJANGO-285845?style=for-the-badge&logo=django&logoColor=white" alt="django" />
 	<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
 	<br />
 	<!-- Infrastructure -->
