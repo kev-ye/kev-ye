@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kangkai</h1>
 
 <!-- Year progress bar -->
-<p align="center">⏳ Year progress { ███████████████████████████▁▁▁ } 92.88 %</p>
+<p align="center">⏳ Year progress { ███████████████████████████▁▁▁ } 92.95 %</p>
 
 ---
 
 <!-- Auto update time -->
-<p align="center">⏰ Updated on Tue, 06 Dec 2022 00:34:14 GMT</p>
+<p align="center">⏰ Updated on Tue, 06 Dec 2022 06:09:09 GMT</p>
 
 ---
 
